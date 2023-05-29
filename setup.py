@@ -1,7 +1,7 @@
 '''
 Buildozer
 '''
-
+# Fauzer Kaminski Abrão Version
 import sys
 from setuptools import setup
 from os.path import dirname, join
