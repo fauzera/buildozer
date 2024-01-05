@@ -10,7 +10,7 @@ Buildozer
 
 Buildozer is a tool for creating application packages easily.
 
-The goal is to have one "buildozer.spec" file in your app directory, describing
+The goal is to have one "buildozer.spec" file in your app directory, describing  
 your application requirements and settings such as title, icon, included modules
 etc. Buildozer will use that spec to create a package for Android, iOS, Windows,
 OSX and/or Linux.
