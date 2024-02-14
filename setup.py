@@ -1,6 +1,6 @@
 ''' 
 Buildozer    
-'''  
+'''    
 # Fauzer Kaminski Abrão Version
 import sys
 from setuptools import setup
